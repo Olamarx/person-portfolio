@@ -2,6 +2,31 @@
     font-size: small;
 }
 
+#welcome-section {
+    height: 100vh;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 900;
+    font-family: Verdana, sans-serif;
+
+  }
+#header {
+  text-align: center;
+}
+
+  body{
+    scroll-behavior: smooth;
+    text-align: center;
+  }
+  
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 600px) {
     .project-tile {
