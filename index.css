@@ -1,0 +1,11 @@
+.project-tile {
+    font-size: small;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .project-tile {
+      font-size: xx-large;
+      background-color: red;
+    }
+  }
