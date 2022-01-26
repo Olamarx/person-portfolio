@@ -7,26 +7,36 @@
     text-align: center;
     font-size: 5rem;
     font-weight: 900;
-    font-family: Verdana, sans-serif;
-
-  }
-#header {
-  text-align: center;
+    
 }
 
-  body{
+#header {
+    text-align: center;
+}
+
+body{
     scroll-behavior: smooth;
     text-align: center;
-  }
+    font-size: 2rem;
+    font-family: Verdana, sans-serif;
+}
   
+#backgroundGradient {
+    background-image: linear-gradient(to right, red,rgb(121, 77, 153), violet);
+}
 
+section {
+    font-size: 1.5rem;
+}
 
+a {
+    text-decoration: none;
+}
 
-
-
-
-
-
+nav {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
 
 @media only screen and (max-width: 600px) {
     .project-tile {
